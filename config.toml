@@ -1,0 +1,9 @@
+baseURL = 'https://apuntes-isi.github.io/apuntes-isi/'
+languageCode = 'en-us'
+title = 'Apuntes ISI FRRe'
+theme = 'compose'
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "RSS","JSON"]
