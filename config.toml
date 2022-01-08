@@ -1,4 +1,4 @@
-baseURL = 'https://apuntes-isi.github.io/apuntes-isi/'
+baseURL = 'https://apuntes-isi.github.io/frre/'
 languageCode = 'en-us'
 title = 'Apuntes ISI FRRe'
 theme = 'compose'
