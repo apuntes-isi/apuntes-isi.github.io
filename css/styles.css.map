@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/runner/work/frre/frre",
+	"sourceRoot": "/home/runner/work/apuntes-isi.github.io/apuntes-isi.github.io",
 	"sources": [
 		"themes/compose/assets/sass/main.sass",
 		"themes/compose/assets/sass/_variables.sass",
