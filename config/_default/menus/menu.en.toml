@@ -1,6 +1,6 @@
 #  menu items
 [[main]]
-  identifier = 'apuntes'
+  identifier = 'docs'
   name = 'Apuntes'
   url = '/docs'
   weight = 1
