@@ -1,6 +1,7 @@
 ---
 title: "👉️ 4to"
 weigth: 5
+draft: false
 ---
 ### Administración de Recursos
 

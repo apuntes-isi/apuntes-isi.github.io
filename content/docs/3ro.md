@@ -1,6 +1,7 @@
 ---
 title: "👉️ 3ro"
 weigth: 4
+draft: false
 ---
 ### Diseño de Sistemas
 

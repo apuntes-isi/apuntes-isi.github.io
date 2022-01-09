@@ -1,6 +1,7 @@
 ---
 title: "👉️ 1ro"
 weight: 2
+draft: false
 ---
 ### Algoritmos y Estructuras de Datos
 

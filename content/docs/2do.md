@@ -1,6 +1,7 @@
 ---
 title: "👉️ 2do"
 weigth: 3
+draft: false
 ---
 ### Análisis de Sistemas
 
